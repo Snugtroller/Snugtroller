@@ -12,5 +12,9 @@ Here is a little about myself!
 * 💞 I'm looking to collaborate on anything.
 * ⚡ My hobbies- I love to play guitar and football.
 
+<div align="center">
+<a href="https://www.linkedin.com/in/suman-s-7b1313211/">
+	<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ /a>
 
 
