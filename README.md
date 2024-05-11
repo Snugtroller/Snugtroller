@@ -15,6 +15,6 @@ Here is a little about myself!
 <div align="center">
 <a href="https://www.linkedin.com/in/suman-s-7b1313211/">
 	<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
- /a>
+	</a>
 
 
