@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Snugtroller.Suman-S&left_text=My%20Page%20Visitors"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Snugtroller.Suman-S&left_text=My%20Page%20Visitors"/>
 
 Here is a little about myself!
 
