@@ -23,7 +23,8 @@ Here is a little about myself!
 <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 
-
+</br>
+<h2>Langauges and Tools 🔨</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
