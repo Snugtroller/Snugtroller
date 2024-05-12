@@ -30,6 +30,9 @@ Here is a little about myself!
     <img src="https://skillicons.dev/icons?i=c,cpp,css,flask,html,java,js,matlab,mysql,nextjs,npm,opencv,py,react,solidity,tensorflow,ts,vscode,r,discord" />
   </a>
 </p>
+![walter-white-let-him-cook](https://github.com/Snugtroller/Snugtroller/assets/113275985/2440dca0-3628-45ec-80cf-518c87813a1b)
+
+
 
 
 
