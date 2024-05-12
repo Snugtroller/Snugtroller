@@ -5,7 +5,7 @@
 
 Here is a little about myself!
 
-* 👋 Hi, I'm <bold>Suman</bold>.
+* 👋 Hi, I'm <b>Suman</b>.
 * 🏫 Currently a CS student at SRM KTR University.
 * 👀 Love to leverage ML algorithms to extract valuable insights from complex data sets.
 * 🌱 I'm currently learning Data Science with ML, Web Dev and Data Structure
