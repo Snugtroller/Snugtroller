@@ -35,7 +35,7 @@ Here is a little about myself!
 
 </br>
 <h2>Stats</h2>
-<p><img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=Snugtroller&show_icons=true&locale=en&layout=compact" alt="vijaymakkad" /></p>
+<p><img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=Snugtroller&show_icons=true&locale=en&layout=compact" alt="Snugtroller" /></p>
 
 
 
