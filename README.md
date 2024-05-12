@@ -34,8 +34,9 @@ Here is a little about myself!
 ![cook-breaking-bad](https://github.com/Snugtroller/Snugtroller/assets/113275985/e8f2f1c9-d2a4-4a53-a2f8-c5e8a148aa9a)
 
 </br>
-<h2>Stats</h2>
+<h2>Stats📐</h2>
 <p><img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=Snugtroller&show_icons=true&locale=en&layout=compact" alt="Snugtroller" /></p>
+<a href="https://git.io/streak-stats"><img align="left" src="https://streak-stats.demolab.com?user=Snugtroller&theme=flag-india" alt="GitHub Streak" /></a>
 
 
 
