@@ -25,9 +25,9 @@ Here is a little about myself!
 
 </br>
 <h2>Langauges and Tools 🔨</h2>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,flask,html,java,js,matlab,mysql,nextjs,npm,opencv,py,react,solidity,tensorflow,ts,vscode,r,discord" />
   </a>
 </p>
 
