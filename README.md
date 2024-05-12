@@ -31,7 +31,8 @@ Here is a little about myself!
   </a>
 </p>
 
-![Walter White Let Him Cook](https://tenor.com/view/walter-white-let-him-cook-let-me-cook-gif-7657333527479776410)
+<img src="https://media.tenor.com/images/08d5dd75429d1b7171250cde4d0ac207/tenor.gif" alt="Walter White Let Him Cook" width="480">
+
 
 
 
