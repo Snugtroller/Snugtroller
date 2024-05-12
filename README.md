@@ -30,7 +30,7 @@ Here is a little about myself!
     <img src="https://skillicons.dev/icons?i=c,cpp,css,flask,html,java,js,matlab,mysql,nextjs,npm,opencv,py,react,solidity,tensorflow,ts,vscode,r,discord" />
   </a>
 </p>
-<img src="[https://raw.githubusercontent.com/yourusername/yourrepository/main/path/to/your/gif.gif](https://github.com/Snugtroller/Snugtroller/assets/113275985/2440dca0-3628-45ec-80cf-518c87813a1b)" alt="Walter White Let Him Cook GIF">
+![walter-white-let-him-cook](https://github.com/Snugtroller/Snugtroller/assets/113275985/7eeb1f85-d15f-4111-9259-36a5b511598d)
 
 
 
