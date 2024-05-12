@@ -31,8 +31,7 @@ Here is a little about myself!
   </a>
 </p>
 
-<img src="https://tenor.com/bhGcw.gif" alt="Breaking Bad Let Me Cook" width="480">
-
+<img src="[https://tenor.com/bhGcw.gif](https://tenor.com/view/breaking-bad-let-me-cook-cook-walter-white-gif-3436637257810219791)" alt="Breaking Bad Let Me Cook" width="480">
 
 
 
