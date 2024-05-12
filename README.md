@@ -1,7 +1,7 @@
 <h1 align="center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=print(%22Hello+world%F0%9F%91%80%22)" alt="Typing SVG" /></a>
 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Snugtroller.Suman-S&left_text=My%20Page%20Visitors"/>
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Snugtroller.Suman-S&left_text=My%20Page%20Visitors"/>
 
 Here is a little about myself!
 
