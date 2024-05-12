@@ -31,4 +31,6 @@ Here is a little about myself!
   </a>
 </p>
 
+<div class="tenor-gif-embed" data-postid="7657333527479776410" data-share-method="host" data-aspect-ratio="1.775" data-width="100%"><a href="https://tenor.com/view/walter-white-let-him-cook-let-me-cook-gif-7657333527479776410">Walter White Let Him Cook GIF</a>from <a href="https://tenor.com/search/walter+white-gifs">Walter White GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
